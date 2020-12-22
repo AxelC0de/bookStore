@@ -1,4 +1,7 @@
 # bookStore
+
+Книга https://www.ozon.ru/context/detail/id/161604861/
+
 objects/arrays training
 
 
