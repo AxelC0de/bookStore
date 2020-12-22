@@ -15,7 +15,6 @@ let book =
         dollar: 10,
         },
         contents:
-
             [
                 {
                     part: 'Земля и человечество',
