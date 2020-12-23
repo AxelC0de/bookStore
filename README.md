@@ -1,7 +1,7 @@
 # bookStore
 
 objects/arrays training
-
+По мотивам упражнения https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/record-collection
 
 Цель упражнения - научиться строить структуры массивов и обьектов на примере магазина Озон.
 Дана книга 'Окружающий мир. 4 класс. Учебник. В 2-х частях Часть 1' https://www.ozon.ru/context/detail/id/161604861/
